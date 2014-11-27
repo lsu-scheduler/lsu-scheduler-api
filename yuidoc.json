@@ -4,7 +4,7 @@
   "options": {
   	"paths": [ "./"],
     "exclude": "bower_components,config,dist,node_modules,public,tests,tmp,win-bin,ember",
-    "outdir": "./public/docs",
+    "outdir": "./docs",
     "extension": ".js"
   }
 }
